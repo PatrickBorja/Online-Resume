@@ -1,0 +1,129 @@
+/* HEADING
+/* design and placement of picture */
+.logo {
+    position: absolute;
+    margin-top: 2.5em;
+    margin-left: 2em;
+    height: 15em;
+    width: 15em;
+}
+/* text color and design */
+.textdesign{
+    color: antiquewhite;
+    font-family: Georgia;
+    text-align: justify;
+    font-size: 4em;
+
+    margin-left: 6em;
+    color: antiquewhite;
+    display: inline-block;
+    padding-top: 1em;
+    position: absolute;   
+}
+
+div p.headparagraph{
+    margin-left: 14.5em;
+    padding-top: 4.7em;
+    font-size: 2em;
+    display: inline-block;
+    color: antiquewhite;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading{
+    background-color: #000000;
+    padding-bottom: 5em;
+    position: relative;
+}
+
+/* THIS IS TEXT?? */
+
+div h3{
+    font-size: 2em;
+    margin-left: 1em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+div p{
+    font-size: 1.2em;
+}
+
+/* THIS IS KEMERUT? */
+.border {
+  max-width: 1000px;
+  margin: auto;
+  margin-left: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  height: 480px;
+  overflow: auto;
+  position: relative;
+}
+
+/* THIS IS CONTACTS? */
+.border2 {
+  max-width: 200px;
+  position: absolute;
+  margin: auto;
+  margin-right: 800px;
+  padding: 20px;
+  padding-right: 80px;
+  border: 1px solid #ccc;
+  height: 480px;
+  background-color: #000000;
+}
+
+div h3.headcontacts{
+    color: antiquewhite;
+}
+
+div p.contacts{
+    color: antiquewhite;
+
+}
+
+
+/* socmed */
+.socmed {
+    max-width : 100px;
+    margin: auto;
+    height: 50px;
+    position: relative;
+}
+
+.socmed2 {
+    max-width : 100px;
+    margin-left: 20px;
+    height: 50px;
+    position: absolute;
+}
+
+/* LINKS! */
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a: active {
+    color: antiquewhite;
+    background-color: transparent;
+    text-decoration: none;
+}
